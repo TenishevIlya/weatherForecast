@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import WeeklyWeather from "../WeekWeather/WeeklyWeather";
 
 import MainStyle from "./Main.style";
 const { commonMain, sectionStyle } = MainStyle;
@@ -8,7 +9,7 @@ class Main extends Component {
     return (
       <div className={commonMain}>
         <section className={sectionStyle}></section>
-        <section className={sectionStyle}></section>
+        <WeeklyWeather />
       </div>
     );
   }

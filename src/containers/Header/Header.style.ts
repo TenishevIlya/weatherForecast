@@ -6,7 +6,7 @@ const HeaderStyle = {
     width: "100vw",
     display: "flex",
     alignItems: "center",
-    justifyContent: "center",
+    paddingLeft: "30px",
   }),
   linksContainer: style({
     display: "flex",

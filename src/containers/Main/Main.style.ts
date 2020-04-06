@@ -4,15 +4,15 @@ const MainStyle = {
   commonMain: style({
     height: "92vh",
     width: "100vw",
-    background: "#F2F2F2",
+    background: "#C4BEBE",
     padding: "30px 0 0 30px",
     overflowX: "hidden",
     overflowY: "hidden",
     display: "flex",
   }),
   sectionStyle: style({
-    height: "60vh",
-    width: "25vw",
+    height: "80vh",
+    width: "35vw",
     background: "#FFFFFF",
     marginRight: "20px",
   }),

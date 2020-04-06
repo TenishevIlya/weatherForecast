@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import { IDefaultLayoutProps, IDefaultLayoutState } from "./DefaultLayout.type";
 import Header from "../containers/Header/Header";
 import Main from "../containers/Main/Main";
+//import { getWeather } from "../utils/request";
 
 import DefaultLayoutStyle from "./DefaultLayout.style";
 const { common } = DefaultLayoutStyle;

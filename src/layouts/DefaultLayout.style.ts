@@ -5,7 +5,6 @@ const DefaultLayoutStyle = {
     height: "100vh",
     width: "100vw",
     overflowX: "hidden",
-    overflowY: "hidden",
   }),
 };
 
