@@ -1,7 +1,8 @@
 export interface IWeeklyListItem {
   day: string;
   date: string;
-  temperature?: string;
-  precipitation?: string;
-  wind?: string;
+  temperature: string;
+  precipitation: string;
+  wind: string;
+  weatherIconCode: string;
 }

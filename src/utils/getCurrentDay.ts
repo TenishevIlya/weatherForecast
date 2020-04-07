@@ -67,7 +67,7 @@ export const getWeeklyDate = () => {
     days.slice(currentDay + 2, 7),
     days.slice(0, currentDay + 1)
   );
-  let counter = 0;
+  let counter = 1;
   let prevDate = 0;
   return week.map((day) => {
     let currentDate = new Date().getDate() + counter;
