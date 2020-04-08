@@ -4,7 +4,7 @@ const MainStyle = {
   commonMain: style({
     height: "92vh",
     width: "100vw",
-    background: "#C4BEBE",
+    background: "#F5F4F4",
     padding: "30px 0 0 30px",
     overflowX: "hidden",
     overflowY: "hidden",
